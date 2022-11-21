@@ -1,0 +1,36 @@
+body, html {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    
+}
+.bg{
+    background-image: linear-gradient(to bottom right, rgb(12, 40, 19), rgb(8, 112, 36), rgb(21, 44, 33));
+    
+}
+#container-login, #container-new{
+    background-color: #152c21;
+}
+
+.navbar-login {
+    background-color: rgba(21, 44, 33, 0.8);
+}
+
+.offcanvas, offcanvas-end{
+    background-color: rgba(21, 44, 33, 0.8);
+}
+.text-bg{
+    color: #fff;
+}
+
+.offcanvas-body font {
+    color: #fff;
+}
+
+.dropdown-menu {
+    background-color: rgb(12 199 108);
+}
+
+.dropdown-menu font {
+    font-weight: 600;
+} 
