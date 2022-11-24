@@ -13,6 +13,9 @@
             case "salvar":
                 include("saveProfileUser.php");
                 break;
+            case "pggratis":
+                include("pggratis.php");
+                break;    
             default:
                 include("homepage.php");
         }

@@ -9,16 +9,17 @@
     <link rel="stylesheet" href="./css/style.css">
     <link rel="shortcut icon" href="imagens/favicon-32x32.png" type="image/x-icon">
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://themes.getbootstrap.com/wp-content/themes/bootstrap-marketplace/style.css?ver=1590611604">
 
 </head>
 
 <body>
     <header>
         <br>
-        <h1 style="color: #fff; background-color:rgb(12 199 108); border-radius:5px; padding:10px;">Nossos Produtos</h1>
+        <h1 style="color: #fff; background-color:rgb(12 199 108); border:1px solid #fff; border-radius:5px; padding:20px;">Nossos Produtos</h1>
         <br><br>
     </header>
-    <main>
+    <main style="border: 1px solid #fff; padding:60px 10px 20px 10px; border-radius: 10px;">
         <div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
             <div class="col">
                 <div class="card mb-4 rounded-3 shadow-sm">
@@ -28,12 +29,12 @@
                     <div class="card-body">
                         <h1 class="card-title pricing-card-title">R$0<small class="text-muted fw-light">/mês</small></h1>
                         <ul class="list-unstyled mt-3 mb-4">
-                            <li>10 Templates</li>
+                            <li>4 Templates</li>
                             <li>2 GB de armazenamento</li>
                             <li>Suporte via Email </li>
                             <li>Acesso a nossos fóruns</li>
                         </ul>
-                        <button type="button" class="w-100 btn btn-lg btn-outline-success">Faça o teste gratuíto</button>
+                        <a href="?page=pggratis" class="w-100 btn btn-lg btn-outline-success">Faça o teste gratuíto</a>
                     </div>
                 </div>
             </div>
@@ -50,7 +51,7 @@
                             <li>Suporte via Whatsapp e e-mail</li>
                             <li>Acesso a nossos fóruns e central de dúvidas</li>
                         </ul>
-                        <button type="button" class="w-100 btn btn-lg btn-success">Vamos lá</button>
+                        <butaton type="button" class="w-100 btn btn-lg btn-success">Vamos lá</butaton>
                     </div>
                 </div>
             </div>

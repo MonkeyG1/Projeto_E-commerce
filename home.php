@@ -14,6 +14,10 @@ include_once('conexao.php');
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://themes.getbootstrap.com/wp-content/themes/bootstrap-marketplace/style.css?ver=1590611604">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100;700&display=swap" rel="stylesheet">
+  <script src="https://kit.fontawesome.com/75f0624486.js" crossorigin="anonymous"></script>
+  
   <title>Menu</title>
   <script src="js/bootstrap.bundle.min.js"></script>
 </head>
@@ -28,13 +32,13 @@ include_once('conexao.php');
         </font>
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasDarkNavbar" aria-controls="offcanvasDarkNavbar">
-        <span class="navbar-toggler-icon"></span>
+        <span class="fas fa-bars" style="color: #fff;"></span>
       </button>
       <div class="offcanvas offcanvas-end text-bg" tabindex="-1" id="offcanvasDarkNavbar" aria-labelledby="offcanvasDarkNavbarLabel">
         <div class="offcanvas-header">
           <h5 class="offcanvas-title" id="offcanvasDarkNavbarLabel">
             <font style="vertical-align: inherit;">
-              <font style="vertical-align: inherit;">Bem vindo, <strong style="color: rgb(14, 229, 125);"><?php echo $_SESSION['nome'] . '!'; ?></strong></font>
+              <font style="vertical-align: inherit; color:#fff">Bem vindo, <strong style="color: rgb(14, 229, 125);"><?php echo $_SESSION['nome'] . '!'; ?></strong></font>
             </font>
           </h5>
           <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Perto"></button>
@@ -64,24 +68,30 @@ include_once('conexao.php');
                 </font>
               </a>
               <ul class="dropdown-menu ">
-                <li><a class="dropdown-item keychainify-checked" href="?page=novo">
+                <li>
+                  <a class="dropdown-item keychainify-checked" href="?page=novo">
                     <font style="vertical-align: inherit;">
                       <font style="vertical-align: inherit; color:#152c21;">Novo</font>
                     </font>
-                  </a></li>
-                <li><a class="dropdown-item keychainify-checked" href="?page=perfil">
+                  </a>
+                </li>
+                <li>
+                  <a class="dropdown-item keychainify-checked" href="?page=perfil">
                     <font style="vertical-align: inherit; ">
                       <font style="vertical-align: inherit ; color:#152c21;">Editar Usuários</font>
                     </font>
-                  </a></li>
+                  </a>
+                </li>
                 <li>
                   <hr class="dropdown-divider">
                 </li>
-                <li><a class="dropdown-item keychainify-checked" href="logout.php">
+                <li>
+                  <a class="dropdown-item keychainify-checked" href="logout.php">
                     <font style="vertical-align: inherit;">
                       <font style="vertical-align: inherit; color:#152c21; font-weight:600;">Sair</font>
                     </font>
-                  </a></li>
+                  </a>
+                </li>
               </ul>
             </li>
           </ul>
@@ -92,12 +102,11 @@ include_once('conexao.php');
   <div class="container">
     <div class="row">
       <div class="col mt-5">
-      <?php
-          include_once('actions/pagination.php');
-      ?>
       </div>
     </div>
   </div>
 </body>
-
+<?php
+    include_once('actions/pagination.php');
+?>
 </html>

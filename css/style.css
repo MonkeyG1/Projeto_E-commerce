@@ -1,20 +1,22 @@
 body, html {
+    
     height: 100vh;
     margin: 0;
     padding: 0;
     
 }
 .bg{
-    background-image: linear-gradient(to bottom right, rgb(12, 40, 19), rgb(8, 112, 36), rgb(21, 44, 33));
-    
+    background-image: linear-gradient(to bottom right,  rgb(8, 112, 36), rgb(21, 44, 33));
 }
+
 #container-login, #container-new{
     background-color: #152c21;
 }
 
-.navbar-login {
+.navbar-login{
     background-color: rgba(21, 44, 33, 0.8);
 }
+
 
 .offcanvas, offcanvas-end{
     background-color: rgba(21, 44, 33, 0.8);
@@ -34,3 +36,21 @@ body, html {
 .dropdown-menu font {
     font-weight: 600;
 } 
+
+#btn-back {
+    margin-left:83%;
+    text-decoration:none; 
+    color:#fff; 
+    font-weight:bold; 
+    border:1px solid  #fff; 
+    border-radius: 5px; 
+    padding:5px 10px;
+}
+
+#btn-back:hover{
+    background-color: #fff;
+    color: #152c21;
+    
+}
+
+

@@ -1,4 +1,4 @@
-<div class="w-auto p-3 mt-5 bg-dark">
+<div class="w-auto p-3 mt-5" style="background-color: rgba(21, 44, 33, 0.8);">
             <h1 style="color:#fff ;">Editar Usuários</h1>
         </div>
     </div>

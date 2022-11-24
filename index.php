@@ -9,10 +9,9 @@ include_once('actions/login.php');
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="./css/style.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100;700&display=swap" rel="stylesheet">
     <script src="https://kit.fontawesome.com/75f0624486.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://themes.getbootstrap.com/wp-content/themes/bootstrap-marketplace/style.css?ver=1590611604">
     <title>Login</title>
     <script src="js/bootstrap.bundle.min.js"></script>
     <style>
@@ -33,6 +32,7 @@ include_once('actions/login.php');
             </a>
         </nav>
     </header>
+    <main>
     <section>
         <div class="container mt-5 mb-5">
             <div class="row align-items-center">
@@ -55,11 +55,11 @@ include_once('actions/login.php');
                             </div>
                             <div class=" mb-3">
                                 <label>
-                                    <a href="newUser.php" class="keychainify-checked">Cadastre-se</a>
+                                    <a href="?page=novo" target="_blank"  class="keychainify-checked">Cadastre-se</a>
                                 </label>
                             </div>
                             <div class=" mb-2">
-                                <button type="submit" class=" w-100 btn btn-success">Entrar</button>
+                                <input type="submit"  value="Entrar" class=" w-100 btn btn-success"></input>
                             </div>
                         </div>
                     </form>
@@ -67,15 +67,23 @@ include_once('actions/login.php');
             </div>
         </div>
     </section>
+    </main>
+    
 
-    <footer style="background-color: rgba(21, 44, 33, 0.8)" class="py-3 my-6">
-        <ul class="nav justify-content-center border-bottom pb-3 mb-2">
-            <li><a style="color: #fff; " href="https://github.com/MonkeyG1" target="_blank"><i class="px-2  fa-brands fa-github fa-xl"></i></a></li>
-            <li><a style="color: #fff; " href="https://www.linkedin.com/in/guilherme-cruz-b79099a5" target="_blank"><i class="px-2 fa-brands fa-linkedin fa-xl"></i></a></li>
-            <li><a style="color: #fff; " href="https://chat.whatsapp.com/FDbCuhocmbEDfymQKRWCLt" target="_blank"><i class="px-2  fa-brands fa-whatsapp fa-xl"></i></a></li>
-            <li><a style="color: #fff; " href="#"><i class="px-2  fa-solid fa-mug-hot fa-xl" target="_blank"></i></a></li>
-        </ul>
-        <p style="color:#fff" class="text-center text-muted">© 2022 Grupo 4, Inc</p>
+    <footer class="footer">
+        <div class="container">
+            <div class="footer__inner">
+                <div class="footer__item d-lg-flex justify-content-lg-between align-items-lg-center">
+                    <ul class="nav justify-content-center border-bottom pb-3 mb-2">
+                        <li><a style="color: #fff; " href="https://github.com/MonkeyG1" target="_blank"><i class="px-2  fa-brands fa-github fa-xl"></i></a></li>
+                        <li><a style="color: #fff; " href="https://www.linkedin.com/in/guilherme-cruz-b79099a5" target="_blank"><i class="px-2 fa-brands fa-linkedin fa-xl"></i></a></li>
+                        <li><a style="color: #fff; " href="https://chat.whatsapp.com/FDbCuhocmbEDfymQKRWCLt" target="_blank"><i class="px-2  fa-brands fa-whatsapp fa-xl"></i></a></li>
+                        <li><a style="color: #fff; " href="#"><i class="px-2  fa-solid fa-mug-hot fa-xl" target="_blank"></i></a></li>
+                    </ul>
+                    <p style="color:#000" class="text-center text-muted">© 2022 Grupo 4, Inc</p>
+                </div>
+            </div>
+        </div>
     </footer>
 </body>
 
