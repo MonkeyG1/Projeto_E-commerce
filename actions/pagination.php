@@ -14,7 +14,7 @@
                 include("saveProfileUser.php");
                 break;
             case "pggratis":
-                include("pggratis.php");
+                include("pages/pggratis.php");
                 break;    
             default:
                 include("homepage.php");

@@ -16,6 +16,7 @@ include_once('conexao.php');
   <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://themes.getbootstrap.com/wp-content/themes/bootstrap-marketplace/style.css?ver=1590611604">
   <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100;700&display=swap" rel="stylesheet">
+  
   <script src="https://kit.fontawesome.com/75f0624486.js" crossorigin="anonymous"></script>
   
   <title>Menu</title>

@@ -46,7 +46,7 @@
             $res = $mysqli->query($sql);
             if($res==true){
                 print "<script>alert('Usuário excluído com sucesso!')</script>";
-                print "<script>location.href='?page=index.php'</script>";
+                print "<script>location.href='?page=cadastrar.php'</script>";
             } else {
                 print "<script>alert('Usuário não pode ser excluído!')</script>";
                 print "<script>location.href='?page=cadastrar'</script>";

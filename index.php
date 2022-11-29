@@ -38,7 +38,7 @@ include_once('actions/login.php');
             <div class="row align-items-center">
                 <div class="col-md-6 mx-auto col-lg-4 col-sm-8">
                     <form class="p-4 p-md-5 border rounded-3" id="container-login" action="" method="POST">
-                        <h1 style="color:white" class="mb-5">Login</h1>
+                    <h1 style="color:white" class="mb-5">Log<font style="border-bottom: 1px solid #fff; color:#1af38c">in</font></h1>
                         <div class="form-floating">
                             <div class="form-floating mb-3">
                                 <input type="email" name="email" id="email" class="form-control">

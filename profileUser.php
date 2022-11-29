@@ -1,7 +1,13 @@
-<div class="w-auto p-3 mt-5" style="background-color: rgba(21, 44, 33, 0.8);">
-            <h1 style="color:#fff ;">Editar Usuários</h1>
-        </div>
-    </div>
+<style>
+    .table{
+        background-color: #fff !important;
+        border-radius: 5px;
+        text-align: center;
+    }
+</style>
+
+<div class="w-auto p-3 mt-5" style="background-color: rgba(21, 44, 33, 0.8); border-radius:5px;">
+    <h1 style="color:#fff ;">Editar Usuários</h1>
 </div>
 <?php
 $sql = "SELECT *  FROM usuarios";
