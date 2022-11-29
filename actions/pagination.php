@@ -15,7 +15,13 @@
                 break;
             case "pggratis":
                 include("pages/pggratis.php");
-                break;    
+                break;
+            case "pgpro":
+                include("pages/pgpro.php");
+                break;     
+            case "pgempresa":
+                include("pages/pgempresa.php");
+                break;  
             default:
                 include("homepage.php");
         }

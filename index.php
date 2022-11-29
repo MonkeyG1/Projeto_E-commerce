@@ -41,7 +41,7 @@ include_once('actions/login.php');
                     <h1 style="color:white" class="mb-5">Log<font style="border-bottom: 1px solid #fff; color:#1af38c">in</font></h1>
                         <div class="form-floating">
                             <div class="form-floating mb-3">
-                                <input type="email" name="email" id="email" class="form-control">
+                                <input type="email" name="email" id="email" class="form-control" autofocus>
                                 <label color="white">E-mail</label>
                             </div>
                             <div class="form-floating mb-3">

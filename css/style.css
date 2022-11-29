@@ -3,11 +3,13 @@ body, html {
     height: 100vh;
     margin: 0;
     padding: 0;
-    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 .bg{
     background-image: linear-gradient(to bottom right,  rgb(8, 112, 36), rgb(21, 44, 33));
-}
+}    
+
 
 #container-login, #container-new{
     background-color: #152c21;

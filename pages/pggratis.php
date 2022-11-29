@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Pagina templates plano gratuito</title>
+    <title>Página templates plano gratuito</title>
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100;700&display=swap" rel="stylesheet">
     <script src="https://kit.fontawesome.com/75f0624486.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://themes.getbootstrap.com/wp-content/themes/bootstrap-marketplace/style.css?ver=1590611604">
@@ -14,7 +14,7 @@
     <main id="main" class="site-main main">
         <section class="section">
             <div class="container">
-                <div class="row" >
+                <div class="row">
                     <div class="col">
                         <div id="primary" class="content-area">
                             <div class="archive-title clearfix">
@@ -30,7 +30,7 @@
                                     <div class="theme-card">
                                         <div class="theme-card__body">
                                             <a class="d-block" href="https://themes.getbootstrap.com/product/booking-multipurpose-booking-and-directory-theme/">
-                                                <img  data-src="https://themes.getbootstrap.com/wp-content/uploads/2022/10/Booking-Multipurpose-Online-Booking-Theme-540x405.jpg" data-srcset="https://themes.getbootstrap.com/wp-content/uploads/2022/10/Booking-Multipurpose-Online-Booking-Theme-800x600.jpg 800w, https://themes.getbootstrap.com/wp-content/uploads/2022/10/Booking-Multipurpose-Online-Booking-Theme.jpg 1200w, https://themes.getbootstrap.com/wp-content/uploads/2022/10/Booking-Multipurpose-Online-Booking-Theme-768x576.jpg 768w, https://themes.getbootstrap.com/wp-content/uploads/2022/10/Booking-Multipurpose-Online-Booking-Theme-600x450.jpg 600w, https://themes.getbootstrap.com/wp-content/uploads/2022/10/Booking-Multipurpose-Online-Booking-Theme-200x150.jpg 200w, https://themes.getbootstrap.com/wp-content/uploads/2022/10/Booking-Multipurpose-Online-Booking-Theme-400x300.jpg 400w, https://themes.getbootstrap.com/wp-content/uploads/2022/10/Booking-Multipurpose-Online-Booking-Theme-540x405.jpg 540w" data-sizes="auto" class="theme-card__img lazyautosizes lazyloaded" sizes="540px" srcset="https://themes.getbootstrap.com/wp-content/uploads/2022/10/Booking-Multipurpose-Online-Booking-Theme-800x600.jpg 800w, https://themes.getbootstrap.com/wp-content/uploads/2022/10/Booking-Multipurpose-Online-Booking-Theme.jpg 1200w, https://themes.getbootstrap.com/wp-content/uploads/2022/10/Booking-Multipurpose-Online-Booking-Theme-768x576.jpg 768w, https://themes.getbootstrap.com/wp-content/uploads/2022/10/Booking-Multipurpose-Online-Booking-Theme-600x450.jpg 600w, https://themes.getbootstrap.com/wp-content/uploads/2022/10/Booking-Multipurpose-Online-Booking-Theme-200x150.jpg 200w, https://themes.getbootstrap.com/wp-content/uploads/2022/10/Booking-Multipurpose-Online-Booking-Theme-400x300.jpg 400w, https://themes.getbootstrap.com/wp-content/uploads/2022/10/Booking-Multipurpose-Online-Booking-Theme-540x405.jpg 540w" src="https://themes.getbootstrap.com/wp-content/uploads/2022/10/Booking-Multipurpose-Online-Booking-Theme-540x405.jpg">
+                                                <img data-src="https://themes.getbootstrap.com/wp-content/uploads/2022/10/Booking-Multipurpose-Online-Booking-Theme-540x405.jpg" data-srcset="https://themes.getbootstrap.com/wp-content/uploads/2022/10/Booking-Multipurpose-Online-Booking-Theme-800x600.jpg 800w, https://themes.getbootstrap.com/wp-content/uploads/2022/10/Booking-Multipurpose-Online-Booking-Theme.jpg 1200w, https://themes.getbootstrap.com/wp-content/uploads/2022/10/Booking-Multipurpose-Online-Booking-Theme-768x576.jpg 768w, https://themes.getbootstrap.com/wp-content/uploads/2022/10/Booking-Multipurpose-Online-Booking-Theme-600x450.jpg 600w, https://themes.getbootstrap.com/wp-content/uploads/2022/10/Booking-Multipurpose-Online-Booking-Theme-200x150.jpg 200w, https://themes.getbootstrap.com/wp-content/uploads/2022/10/Booking-Multipurpose-Online-Booking-Theme-400x300.jpg 400w, https://themes.getbootstrap.com/wp-content/uploads/2022/10/Booking-Multipurpose-Online-Booking-Theme-540x405.jpg 540w" data-sizes="auto" class="theme-card__img lazyautosizes lazyloaded" sizes="540px" srcset="https://themes.getbootstrap.com/wp-content/uploads/2022/10/Booking-Multipurpose-Online-Booking-Theme-800x600.jpg 800w, https://themes.getbootstrap.com/wp-content/uploads/2022/10/Booking-Multipurpose-Online-Booking-Theme.jpg 1200w, https://themes.getbootstrap.com/wp-content/uploads/2022/10/Booking-Multipurpose-Online-Booking-Theme-768x576.jpg 768w, https://themes.getbootstrap.com/wp-content/uploads/2022/10/Booking-Multipurpose-Online-Booking-Theme-600x450.jpg 600w, https://themes.getbootstrap.com/wp-content/uploads/2022/10/Booking-Multipurpose-Online-Booking-Theme-200x150.jpg 200w, https://themes.getbootstrap.com/wp-content/uploads/2022/10/Booking-Multipurpose-Online-Booking-Theme-400x300.jpg 400w, https://themes.getbootstrap.com/wp-content/uploads/2022/10/Booking-Multipurpose-Online-Booking-Theme-540x405.jpg 540w" src="https://themes.getbootstrap.com/wp-content/uploads/2022/10/Booking-Multipurpose-Online-Booking-Theme-540x405.jpg">
                                             </a>
                                             <a class="theme-card__body__overlay btn btn-brand btn-sm" target="_blank" href="https://themes.getbootstrap.com/preview/?theme_id=117868">Live preview</a>
                                         </div>
@@ -44,7 +44,6 @@
                                                 <p></p>
                                             </div>
                                             <div class="theme-card__footer__item">
-                                                <p class="theme-card__price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>49.00</span></p>
                                                 <ul class="rating">
                                                     <li class="rating__item rating__item--active"></li>
                                                     <li class="rating__item rating__item--active"></li>
@@ -75,7 +74,66 @@
                                                 <p></p>
                                             </div>
                                             <div class="theme-card__footer__item">
-                                                <p class="theme-card__price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">$</span>49.00</span></p>
+                                                <ul class="rating">
+                                                    <li class="rating__item rating__item--active"></li>
+                                                    <li class="rating__item rating__item--active"></li>
+                                                    <li class="rating__item rating__item--active"></li>
+                                                    <li class="rating__item rating__item--active"></li>
+                                                    <li class="rating__item rating__item--active"></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="col-6">
+                                    <div class="theme-card">
+                                        <div class="theme-card__body">
+                                            <a class="d-block keychainify-checked" href="https://themes.getbootstrap.com/product/directory-directory-listing-bootstrap-4-theme/">
+                                                <img data-src="https://themes.getbootstrap.com/wp-content/uploads/2019/02/directory-b5-1200x900-540x405.jpg" data-srcset="https://themes.getbootstrap.com/wp-content/uploads/2019/02/directory-b5-1200x900-800x600.jpg 800w, https://themes.getbootstrap.com/wp-content/uploads/2019/02/directory-b5-1200x900.jpg 1200w, https://themes.getbootstrap.com/wp-content/uploads/2019/02/directory-b5-1200x900-768x576.jpg 768w, https://themes.getbootstrap.com/wp-content/uploads/2019/02/directory-b5-1200x900-600x450.jpg 600w, https://themes.getbootstrap.com/wp-content/uploads/2019/02/directory-b5-1200x900-200x150.jpg 200w, https://themes.getbootstrap.com/wp-content/uploads/2019/02/directory-b5-1200x900-400x300.jpg 400w, https://themes.getbootstrap.com/wp-content/uploads/2019/02/directory-b5-1200x900-540x405.jpg 540w" data-sizes="auto" class="theme-card__img lazyautosizes lazyloaded" sizes="540px" srcset="https://themes.getbootstrap.com/wp-content/uploads/2019/02/directory-b5-1200x900-800x600.jpg 800w, https://themes.getbootstrap.com/wp-content/uploads/2019/02/directory-b5-1200x900.jpg 1200w, https://themes.getbootstrap.com/wp-content/uploads/2019/02/directory-b5-1200x900-768x576.jpg 768w, https://themes.getbootstrap.com/wp-content/uploads/2019/02/directory-b5-1200x900-600x450.jpg 600w, https://themes.getbootstrap.com/wp-content/uploads/2019/02/directory-b5-1200x900-200x150.jpg 200w, https://themes.getbootstrap.com/wp-content/uploads/2019/02/directory-b5-1200x900-400x300.jpg 400w, https://themes.getbootstrap.com/wp-content/uploads/2019/02/directory-b5-1200x900-540x405.jpg 540w" src="https://themes.getbootstrap.com/wp-content/uploads/2019/02/directory-b5-1200x900-540x405.jpg">
+                                            </a>
+
+                                            <a class="theme-card__body__overlay btn btn-brand btn-sm keychainify-checked" target="_blank" href="https://themes.getbootstrap.com/preview/?theme_id=17532">Live preview</a>
+                                        </div>
+                                        <div class="theme-card__footer">
+                                            <div style="color:#fff" class="theme-card__footer__item"><a class="theme-card__title mr-1 keychainify-checked" href="https://themes.getbootstrap.com/product/directory-directory-listing-bootstrap-4-theme/">Directory – Directory &amp; Listing Bootstrap 5 Theme</a>
+                                                <p class="theme-card__info">
+                                                </p>
+                                                <ul class="prod_cats_list">
+                                                    <li><a href="https://themes.getbootstrap.com/product-category/ecommerce-retail/" class="keychainify-checked">E-Commerce &amp; Retail</a></li>
+                                                </ul>
+                                                <p></p>
+                                            </div>
+                                            <div class="theme-card__footer__item">
+                                                <ul class="rating">
+                                                    <li class="rating__item rating__item--active"></li>
+                                                    <li class="rating__item rating__item--active"></li>
+                                                    <li class="rating__item rating__item--active"></li>
+                                                    <li class="rating__item rating__item--active"></li>
+                                                    <li class="rating__item rating__item--active"></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="col-6">
+                                    <div class="theme-card">
+                                        <div class="theme-card__body">
+                                            <a class="d-block keychainify-checked" href="https://themes.getbootstrap.com/product/finder-directory-listings-template-ui-kit/">
+                                                <img data-src="https://themes.getbootstrap.com/wp-content/uploads/2021/06/screenshot-540x405.jpg" data-srcset="https://themes.getbootstrap.com/wp-content/uploads/2021/06/screenshot-800x600.jpg 800w, https://themes.getbootstrap.com/wp-content/uploads/2021/06/screenshot.jpg 1200w, https://themes.getbootstrap.com/wp-content/uploads/2021/06/screenshot-768x576.jpg 768w, https://themes.getbootstrap.com/wp-content/uploads/2021/06/screenshot-600x450.jpg 600w, https://themes.getbootstrap.com/wp-content/uploads/2021/06/screenshot-200x150.jpg 200w, https://themes.getbootstrap.com/wp-content/uploads/2021/06/screenshot-400x300.jpg 400w, https://themes.getbootstrap.com/wp-content/uploads/2021/06/screenshot-540x405.jpg 540w" data-sizes="auto" class="theme-card__img lazyautosizes lazyloaded" sizes="540px" srcset="https://themes.getbootstrap.com/wp-content/uploads/2021/06/screenshot-800x600.jpg 800w, https://themes.getbootstrap.com/wp-content/uploads/2021/06/screenshot.jpg 1200w, https://themes.getbootstrap.com/wp-content/uploads/2021/06/screenshot-768x576.jpg 768w, https://themes.getbootstrap.com/wp-content/uploads/2021/06/screenshot-600x450.jpg 600w, https://themes.getbootstrap.com/wp-content/uploads/2021/06/screenshot-200x150.jpg 200w, https://themes.getbootstrap.com/wp-content/uploads/2021/06/screenshot-400x300.jpg 400w, https://themes.getbootstrap.com/wp-content/uploads/2021/06/screenshot-540x405.jpg 540w" src="https://themes.getbootstrap.com/wp-content/uploads/2021/06/screenshot-540x405.jpg">
+                                            </a>
+
+                                            <a class="theme-card__body__overlay btn btn-brand btn-sm keychainify-checked" target="_blank" href="https://themes.getbootstrap.com/preview/?theme_id=92316">Live preview</a>
+                                        </div>
+                                        <div style="color:#fff" class="theme-card__footer">
+                                            <div class="theme-card__footer__item"><a class="theme-card__title mr-1 keychainify-checked" href="https://themes.getbootstrap.com/product/finder-directory-listings-template-ui-kit/">Finder – Directory &amp; Listings Template + UI Kit</a>
+                                                <p class="theme-card__info">
+                                                </p>
+                                                <ul class="prod_cats_list">
+                                                    <li><a href="https://themes.getbootstrap.com/product-category/ecommerce-retail/" class="keychainify-checked">E-Commerce &amp; Retail</a></li>
+                                                </ul>
+                                                <p></p>
+                                            </div>
+                                            <div class="theme-card__footer__item">
                                                 <ul class="rating">
                                                     <li class="rating__item rating__item--active"></li>
                                                     <li class="rating__item rating__item--active"></li>

@@ -46,12 +46,12 @@
                     <div class="card-body">
                         <h1 class="card-title pricing-card-title">R$29,90<small class="text-muted fw-light">/mês</small></h1>
                         <ul class="list-unstyled mt-3 mb-4">
-                            <li>20 Templates</li>
+                            <li>6 Templates/Mensais</li>
                             <li>10 GB de armazenamento/mês</li>
                             <li>Suporte via Whatsapp e e-mail</li>
                             <li>Acesso a nossos fóruns e central de dúvidas</li>
                         </ul>
-                        <butaton type="button" class="w-100 btn btn-lg btn-success">Vamos lá</butaton>
+                        <a href="?page=pgpro" class="w-100 btn btn-lg btn-success">Vamos lá</a>
                     </div>
                 </div>
             </div>
@@ -63,12 +63,12 @@
                     <div class="card-body">
                         <h1 class="card-title pricing-card-title">R$59,90<small class="text-muted fw-light">/mês</small></h1>
                         <ul class="list-unstyled mt-3 mb-4">
-                            <li>Acesso a todos nossos templates</li>
+                            <li>Todos Templates + Dashboards</li>
                             <li>15 GB de armazenamento/mês</li>
                             <li>Suporte via Fone, email e Whatsapp</li>
                             <li>Acesso a nossos fóruns e central de dúvidas</li>
                         </ul>
-                        <button type="button" class="w-100 btn btn-lg btn-success">Contate-nos para saber mais!</button>
+                        <a href="?page=pgempresa" class="w-100 btn btn-lg btn-success">Contate-nos para saber mais!</a>
                     </div>
                 </div>
             </div>
