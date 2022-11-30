@@ -26,7 +26,9 @@
                 <div class="mb-3">
                     <button type="submit" class="btn btn-success">Enviar</button>
                 </div>
-                <a id="btn-back" href="home.php">Voltar</a>
+                <div>
+                    <a id="btn-back" href="home.php">Voltar</a>
+                </div>
             </form>
         </div>
     </div>

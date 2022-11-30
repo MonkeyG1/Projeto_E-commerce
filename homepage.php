@@ -20,7 +20,7 @@
         <br><br>
     </header>
     <main style="border: 1px solid #fff; padding:60px 10px 20px 10px; border-radius: 10px;">
-        <div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
+        <div class="row row-cols-1 row-cols-md-3 mb-3 mt-3 text-center">
             <div class="col">
                 <div class="card mb-4 rounded-3 shadow-sm">
                     <div class="card-header py-3">
@@ -74,6 +74,7 @@
             </div>
         </div>
     </main>
+    
 </body>
 
 </html>

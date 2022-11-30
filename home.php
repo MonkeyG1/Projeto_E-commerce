@@ -49,20 +49,24 @@ include_once('conexao.php');
             <li class="nav-item">
               <a class="nav-link active keychainify-checked" aria-current="page" href="home.php">
                 <font style="vertical-align: inherit;">
+                  <i class="fa-solid fa-house"></i>
                   <font style="vertical-align: inherit;">Home</font>
+                  
                 </font>
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link keychainify-checked" href="#">
+              <a class="nav-link keychainify-checked" href="https://chat.whatsapp.com/FDbCuhocmbEDfymQKRWCLt" target="_blank">
                 <font style="vertical-align: inherit;">
-                  <font style="vertical-align: inherit;">Teste</font>
+                  <i class="fa-solid fa-headset"></i>
+                  <font style="vertical-align: inherit;">Suporte</font>
                 </font>
               </a>
             </li>
             <li class="nav-item dropdown">
               <a style="color:#fff" class="nav-link dropdown-toggle keychainify-checked" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 <font style="vertical-align: inherit;">
+                  <i class="fa-solid fa-address-card"></i>
                   <font style="vertical-align: inherit;">
                     Cadastro
                   </font>
@@ -72,6 +76,7 @@ include_once('conexao.php');
                 <li>
                   <a class="dropdown-item keychainify-checked" href="?page=novo">
                     <font style="vertical-align: inherit;">
+                      <i class="fa-solid fa-plus" style="color:#152c21;"></i>
                       <font style="vertical-align: inherit; color:#152c21;">Novo</font>
                     </font>
                   </a>
@@ -79,6 +84,7 @@ include_once('conexao.php');
                 <li>
                   <a class="dropdown-item keychainify-checked" href="?page=perfil">
                     <font style="vertical-align: inherit; ">
+                      <i class="fa-solid fa-pen-to-square" style="color:#152c21;"></i>
                       <font style="vertical-align: inherit ; color:#152c21;">Editar Usuários</font>
                     </font>
                   </a>
@@ -89,7 +95,8 @@ include_once('conexao.php');
                 <li>
                   <a class="dropdown-item keychainify-checked" href="logout.php">
                     <font style="vertical-align: inherit;">
-                      <font style="vertical-align: inherit; color:#152c21; font-weight:600;">Sair</font>
+                      <i class="fa-solid fa-right-from-bracket" style="color:#152c21;"></i>
+                      <font style="vertical-align: inherit; color:#152c21; font-weight:600;">Sair</font>                     
                     </font>
                   </a>
                 </li>

@@ -1,14 +1,12 @@
 <style>
-    .table{
+    .table {
         background-color: #fff !important;
         border-radius: 5px;
         text-align: center;
     }
 </style>
 
-<div class="w-auto p-3 mt-5" style="background-color: rgba(21, 44, 33, 0.8); border-radius:5px;">
-    <h1 style="color:#fff ;">Editar Usuários</h1>
-</div>
+
 <?php
 $sql = "SELECT *  FROM usuarios";
 
@@ -16,6 +14,9 @@ $res = $mysqli->query($sql);
 
 $qtd = $res->num_rows;
 if ($qtd > 0) {
+    print "<div class='w-auto p-3 mt-5' style='background-color: rgba(21, 44, 33, 0.8); border-radius:5px;'>
+        <h1 style='color:#fff ;'>Editar Usuários</h1>
+    </div>";
     print "<table class ='table table-hover table-striped table-bordered'>";
     print "<tr>";
     print "<th>#</th>";
@@ -41,4 +42,8 @@ if ($qtd > 0) {
     print "<p class='alert alert-danger'>Resultados não encontrados!</p>";
 }
 ?>
+
+</div>
+<div>
+    <a id="btn-back" style="margin-left: 95% ;" href="home.php">Voltar</a>
 </div>
